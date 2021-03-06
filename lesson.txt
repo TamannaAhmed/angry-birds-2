@@ -1,0 +1,21 @@
+Inheritance: class 26
+
+    Same set of coding in many classes
+    Create a parent and child relationship
+    Write the common coding in the parent class, and the child class wil be extending that
+
+    Eg:
+    Parent is interested in Mechanical
+
+    May or may not be child will be having that. Additionally, interested in computer engg
+
+    Eg:
+    Parent is having 1C of asset
+
+    That assest belongs to child
+    Whatever the child earns belongs to the child
+
+    Inheritance == subconcept(Overridding method)
+
+    Parent class = base class = super class
+    Child class = derived class = sub class
